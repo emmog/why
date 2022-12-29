@@ -1,0 +1,68 @@
+.img{
+    width: 100%;
+}
+
+.container{
+    display: flex;
+}
+.content{
+    flex: 2 1 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(212, 142, 50);
+}
+.image{
+    width: 30%;
+    flex: 1 1 30rem;
+}
+.btn{
+    padding: 10px 30px 10px 30px;
+    background-color: rgba(0, 0, 255, 0.7);
+    color: white;
+    border: 1px solid rgba(0, 0, 255, 0.7);
+    border-radius: 20px;
+}
+.where{
+    font-size: 20px;
+    max-width: 500px;
+}
+.why{
+    font-size:20px ;
+    max-width: 500px;
+}
+.to day{
+    font-size:20px ;
+    max-width: 500px;
+}
+.tomorrow{
+    font-size:20px ;
+    max-width: 500px;
+}
+.hhh{
+    padding-left:300px ;
+}
+.kkk{
+    background-color: beige;
+}
+.card-body{
+    padding-top: 120px;
+}
+.ll{
+    font-size: 30px;
+    padding-left: 50px;
+}
+.yy{
+    font-size: 20px;
+    max-width: 500%;
+    padding-top: 30px;
+}
+.im{
+    width: 30%;
+    flex: 1 1 30rem;
+    padding: 30px;
+}
+
+
+
